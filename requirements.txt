@@ -1,0 +1,18 @@
+# requirements.txt
+transformers
+accelerate
+pandas
+huggingface_hub
+librosa
+soundfile
+tqdm
+peft
+numpy
+scikit-learn
+seaborn
+statsmodels
+matplotlib
+dotenv
+google-genai
+ipywidgets
+widgetsnbextension
