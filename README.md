@@ -8,9 +8,10 @@
 Official implementation of the ICASSP 2026 paper:
 
 > **Scaling Ambiguity: Augmenting Human Annotation in Speech Emotion Recognition with Audio-Language Models**
+>
 > Wenda Zhang, Hongyu Jin\*, Siyi Wang\*, Zhiqiang Wei, Ting Dang
-> *University of Melbourne & Xi'an Jiaotong University*
-> (\* Equal contribution)
+>
+> *University of Melbourne & Xi'an Jiaotong University* &nbsp;·&nbsp; (\* Equal contribution)
 
 ## Overview
 
