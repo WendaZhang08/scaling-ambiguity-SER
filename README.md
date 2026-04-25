@@ -215,15 +215,16 @@ Performance on IEMOCAP and MSP-Podcast test sets (JS Divergence ↓, Bhattachary
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{zhang2026scalingambiguityaugmentinghuman,
-      title={Scaling Ambiguity: Augmenting Human Annotation in Speech Emotion Recognition with Audio-Language Models}, 
-      author={Wenda Zhang and Hongyu Jin and Siyi Wang and Zhiqiang Wei and Ting Dang},
-      year={2026},
-      eprint={2601.14620},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2601.14620}, 
-}
+@INPROCEEDINGS{11464198,
+  author={Zhang, Wenda and Jin, Hongyu and Wang, Siyi and Wei, Zhiqiang and Dang, Ting},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Scaling Ambiguity: Augmenting Human Annotation in Speech Emotion Recognition with Audio-Language Models}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={16217-16221},
+  keywords={Digital audio broadcasting;Broadcasting;Circuits;Feedback;Digital audio broadcasting;Digital communication;LoRa;Protocols;HTTP;Data communication;Speech;Emotion Recognition;Synthetic Annotations;Data Augmentation;Audio Language Models},
+  doi={10.1109/ICASSP55912.2026.11464198}}
 ```
 
 The official IEEE Xplore citation will be available after the conference proceedings are published.
