@@ -227,8 +227,6 @@ If you find this work useful, please cite:
   doi={10.1109/ICASSP55912.2026.11464198}}
 ```
 
-The official IEEE Xplore citation will be available after the conference proceedings are published.
-
 ---
 
 ## License
